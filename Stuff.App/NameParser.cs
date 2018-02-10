@@ -29,9 +29,7 @@
                         LastName = nameParts[2]
                     };
                     break;
-
             }
-
 
             return result;
         }
